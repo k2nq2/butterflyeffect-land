@@ -1783,6 +1783,7 @@ color: #fff;
     }
     .price-div{
         padding-bottom: 2rem;
+        width: 100%;
     }
     .price-div:nth-child(1){
         height: 91rem;
