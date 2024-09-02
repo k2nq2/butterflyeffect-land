@@ -1604,6 +1604,9 @@ color: #000;
 
 
 @media(max-width:1199px){
+    .need{
+        display: block !important;
+    }
     .header-title{
         font-size: 6.5rem;
         line-height: 94%;
