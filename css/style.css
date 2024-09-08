@@ -1633,7 +1633,7 @@ color: #000;
         flex-direction: column;
         gap: 1rem;
         margin-top: 1.8rem;
-        margin-bottom: 2.4rem;
+        margin-bottom: 0.4rem;
     }
     .downtext-mob{
         font-family: var(--font-family);
